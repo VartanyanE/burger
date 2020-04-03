@@ -13,13 +13,12 @@ router.get("/", function (req, res) {
         console.log(hbsObject);
         res.render("index", hbsObject);
     });
-    console.log("worked")
 
 });
 
 router.post("/api/burgers", function (req, res) {
     burger.create([
-        "burger", "devoured"
+        "burger_name", "devoured"
         // "devoured"
     ], [
         req.body.burger, req.body.devoured === true
