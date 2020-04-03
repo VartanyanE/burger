@@ -1,6 +1,6 @@
 
 
-# The Burger Stand 
+# The Burger Stand  <img src="./public/img/burger.png" alt="avatar" style="border-radius: 16px" width="50"/>
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
@@ -9,7 +9,7 @@
 This is an app built with javascript, node.js, express, handlebars, and mysql.  
 
 
-<img src="./public/img/burger.png" alt="avatar" style="border-radius: 16px" width="80"/>
+
 
 
 ## Table of Contents
