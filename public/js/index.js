@@ -9,12 +9,12 @@ $(function () {
         };
 
         // Send the PUT request.
-        $.ajax("/api/cats/" + id, {
+        $.ajax("/api/burgers/" + id, {
             type: "PUT",
             data: newDevouredState
         }).then(
             function () {
-                console.log("changed sleep to", newState);
+                console.log("changed devoured to", newState);
                 // Reload the page to get the updated list
                 location.reload();
             }
