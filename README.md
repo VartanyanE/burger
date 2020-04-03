@@ -9,7 +9,7 @@
 This is an app built with javascript, node.js, express, handlebars, and mysql.  
 
 
-<img src="./burger.png" alt="avatar" style="border-radius: 16px" width="80"/>
+<img src="./public/img/burger.png" alt="avatar" style="border-radius: 16px" width="80"/>
 
 
 ## Table of Contents
